@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi there, I'm Hau 👋
+I’m currently working on backend development and can whip up a basic frontend with a little magic from Google.
 
-<!--
-**thanhhaudev/thanhhaudev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📅 Activity by Day of the Week
 
-Here are some ideas to get you started:
+<!--START_SECTION:SHOW_DAYS_OF_WEEK-->
+<!--END_SECTION:SHOW_DAYS_OF_WEEK-->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Most Used Editors
+
+<!--START_SECTION:SHOW_EDITORS-->
+<!--END_SECTION:SHOW_EDITORS-->
+
+## 🗂️ Languages Per Repository
+
+<!--START_SECTION:#SHOW_LANGUAGE_PER_REPO-->
+<!--END_SECTION:#SHOW_LANGUAGE_PER_REPO-->
