@@ -1,5 +1,5 @@
 ## Hi there, I'm Hau 👋
-I’m currently working on backend development and can whip up a basic frontend with a little magic from Google.
+I am currently working as a backend developer and can whip up a basic frontend with a little magic from Google. 
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
