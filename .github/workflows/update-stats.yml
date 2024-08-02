@@ -4,6 +4,8 @@ on:
   schedule:
     # Runs at 12:00 PM VNT (5:00 AM UTC)
     - cron: '0 5 * * *'
+    # Runs at 8:00 PM VNT (1:00 PM UTC)
+    - cron: '0 13 * * *'
   workflow_dispatch:
 jobs:
   update-readme:
