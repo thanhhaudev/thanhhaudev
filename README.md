@@ -1,5 +1,5 @@
 ## Hi there, I'm Hau 👋
-I’m currently working as a backend developer and can whip up a basic frontend with a little magic from Google. 
+I’m currently working as a backend developer, but on the side, I can also whip up a basic frontend with a little magic from Google 🪄. 
 
 <!--START_SECTION:waka-->
 **I'm a Night 🦉** 
