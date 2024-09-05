@@ -1,7 +1,7 @@
 ## Hi there, I'm Hau 👋
-I’m currently working as a backend developer, but on the side, I can also whip up a basic frontend with a little magic from Google 🪄. 
+I’m currently working as a backend developer, but on the side, I can also whip up a basic frontend with a little magic from Google 🪄
 
-<!--START_SECTION:waka-->
+<!--START_SECTION:readme-stats-->
 **I'm a Night 🦉** 
 
 ```text
@@ -53,4 +53,4 @@ PHP                      2 repos             ████████░░░�
 
 
  Last Updated on 05/09/2024 05:11:59 UTC
-<!--END_SECTION:waka-->
+<!--END_SECTION:readme-stats-->
