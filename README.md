@@ -5,10 +5,10 @@ I’m currently working as a backend developer, but on the side, I can also whip
 **🕒 I'm A Twilight Taskmaster 🌆**
 
 ```text
-🌅 Morning                71 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.14%
-🌞 Daytime                138 commits         ███████░░░░░░░░░░░░░░░░░░   27.49%
-🌆 Evening                210 commits         ██████████░░░░░░░░░░░░░░░   41.83%
-🌙 Night                  83 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.53%
+🌅 Morning                72 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.31%
+🌞 Daytime                138 commits         ███████░░░░░░░░░░░░░░░░░░   27.44%
+🌆 Evening                210 commits         ██████████░░░░░░░░░░░░░░░   41.75%
+🌙 Night                  83 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.50%
 ```
 
 **📊 All The Time I Spent On**
@@ -47,32 +47,32 @@ PHP                      2 repos             ████████░░░�
 **📅 I'm Most Productive on Sunday**
 
 ```text
-Sunday                   133 commits         ███████░░░░░░░░░░░░░░░░░░   26.49%
-Monday                   58 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.55%
-Tuesday                  57 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.35%
-Wednesday                68 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.55%
-Thursday                 100 commits         █████░░░░░░░░░░░░░░░░░░░░   19.92%
-Friday                   44 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.76%
-Saturday                 42 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.37%
+Sunday                   133 commits         ███████░░░░░░░░░░░░░░░░░░   26.44%
+Monday                   59 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.73%
+Tuesday                  57 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.33%
+Wednesday                68 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.52%
+Thursday                 100 commits         █████░░░░░░░░░░░░░░░░░░░░   19.88%
+Friday                   44 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.75%
+Saturday                 42 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.35%
 ```
 
 **💬 Languages**
 
-![Shell](https://img.shields.io/badge/Shell-00.09%25-89e051?&logo=Shell&labelColor=000)
-![CSS](https://img.shields.io/badge/CSS-00.22%25-563d7c?&logo=CSS&labelColor=000)
-![Vue](https://img.shields.io/badge/Vue-01.29%25-41b883?&logo=Vue&labelColor=000)
-![Dockerfile](https://img.shields.io/badge/Dockerfile-00.13%25-384d54?&logo=Dockerfile&labelColor=000)
 ![Makefile](https://img.shields.io/badge/Makefile-00.02%25-427819?&logo=Makefile&labelColor=000)
-![PHP](https://img.shields.io/badge/PHP-67.21%25-4F5D95?&logo=PHP&labelColor=000)
-![Blade](https://img.shields.io/badge/Blade-25.87%25-f7523f?&logo=Blade&labelColor=000)
+![Vue](https://img.shields.io/badge/Vue-01.29%25-41b883?&logo=Vue&labelColor=000)
 ![Hack](https://img.shields.io/badge/Hack-00.07%25-878787?&logo=Hack&labelColor=000)
 ![Go](https://img.shields.io/badge/Go-02.84%25-00ADD8?&logo=Go&labelColor=000)
-![JavaScript](https://img.shields.io/badge/JavaScript-02.22%25-f1e05a?&logo=JavaScript&labelColor=000)
+![Dockerfile](https://img.shields.io/badge/Dockerfile-00.13%25-384d54?&logo=Dockerfile&labelColor=000)
+![Blade](https://img.shields.io/badge/Blade-25.87%25-f7523f?&logo=Blade&labelColor=000)
+![Shell](https://img.shields.io/badge/Shell-00.09%25-89e051?&logo=Shell&labelColor=000)
+![CSS](https://img.shields.io/badge/CSS-00.22%25-563d7c?&logo=CSS&labelColor=000)
 ![SCSS](https://img.shields.io/badge/SCSS-00.02%25-c6538c?&logo=SCSS&labelColor=000)
 ![HTML](https://img.shields.io/badge/HTML-00.02%25-e34c26?&logo=HTML&labelColor=000)
+![PHP](https://img.shields.io/badge/PHP-67.21%25-4F5D95?&logo=PHP&labelColor=000)
+![JavaScript](https://img.shields.io/badge/JavaScript-02.22%25-f1e05a?&logo=JavaScript&labelColor=000)
 
 
 
 
-*⏳ Last updated on 2024-09-09 11:15:37 +07*
+*⏳ Last updated on 2024-09-09 12:13:06 +07*
 <!--END_SECTION:readme-stats-->
