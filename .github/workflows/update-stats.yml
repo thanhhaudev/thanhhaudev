@@ -32,4 +32,4 @@ jobs:
         SHOW_LAST_UPDATE: "true"
         ONLY_MAIN_BRANCH: "true"
         HIDE_REPO_INFO: "true"
-        PROGRESS_BAR_VERSION: "2"
+        PROGRESS_BAR_VERSION: "1"
