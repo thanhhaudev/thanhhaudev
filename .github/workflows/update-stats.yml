@@ -16,7 +16,7 @@ jobs:
     - name: Checkout
       uses: actions/checkout@v4
     - name: Run GitHub Stats Action
-      uses: thanhhaudev/github-stats@master
+      uses: thanhhaudev/github-stats@develop
       env:
         BRANCH_NAME: ${{ github.ref_name }}
         WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
@@ -32,4 +32,5 @@ jobs:
         SHOW_LAST_UPDATE: "true"
         ONLY_MAIN_BRANCH: "true"
         HIDE_REPO_INFO: "true"
+        EXCLUDE_FORK_REPOS: "true"
         PROGRESS_BAR_VERSION: "1"
