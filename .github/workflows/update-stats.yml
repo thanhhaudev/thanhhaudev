@@ -21,9 +21,9 @@ jobs:
         BRANCH_NAME: ${{ github.ref_name }}
         WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
         GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
-        COMMIT_MESSAGE: "🚀 update metrics"
-        COMMIT_USER_NAME: "thanhhaudev"
-        COMMIT_USER_EMAIL: "thanhhaudev@gmail.com"
+        COMMIT_MESSAGE: "🚀 auto update metrics"
+        #COMMIT_USER_NAME: "thanhhaudev"
+        #COMMIT_USER_EMAIL: "thanhhaudev@gmail.com"
         WAKATIME_RANGE: "all_time"
         WAKATIME_DATA: "EDITORS,LANGUAGES,OPERATING_SYSTEMS"
         SHOW_METRICS: "COMMIT_TIME_OF_DAY,WAKATIME_SPENT_TIME,LANGUAGE_PER_REPO,COMMIT_DAYS_OF_WEEK,LANGUAGES_BASED_ON_REPO"
