@@ -5,10 +5,10 @@ I’m currently working as a backend developer, but on the side, I can also whip
 **🕒 I'm A Twilight Taskmaster 🌆**
 
 ```text
-🌅 Morning                89 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.09%
-🌞 Daytime                159 commits         ███████░░░░░░░░░░░░░░░░░░   28.75%
-🌆 Evening                217 commits         ██████████░░░░░░░░░░░░░░░   39.24%
-🌙 Night                  88 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.91%
+🌅 Morning                89 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.89%
+🌞 Daytime                159 commits         ███████░░░░░░░░░░░░░░░░░░   28.39%
+🌆 Evening                224 commits         ██████████░░░░░░░░░░░░░░░   40.00%
+🌙 Night                  88 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.71%
 ```
 
 **📊 All The Time I Spent On**
@@ -47,22 +47,22 @@ Blade                    2 repos             ██████░░░░░�
 **📅 I'm Most Productive on Sunday**
 
 ```text
-Sunday                   133 commits         ██████░░░░░░░░░░░░░░░░░░░   24.05%
-Monday                   70 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.66%
-Tuesday                  75 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.56%
-Wednesday                73 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.20%
-Thursday                 107 commits         █████░░░░░░░░░░░░░░░░░░░░   19.35%
-Friday                   53 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.58%
-Saturday                 42 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.59%
+Sunday                   133 commits         ██████░░░░░░░░░░░░░░░░░░░   23.75%
+Monday                   70 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.50%
+Tuesday                  75 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.39%
+Wednesday                73 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.04%
+Thursday                 107 commits         █████░░░░░░░░░░░░░░░░░░░░   19.11%
+Friday                   60 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.71%
+Saturday                 42 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.50%
 ```
 
 **💬 Languages**
 
-![PHP](https://img.shields.io/badge/PHP-66.31%25-4F5D95?&logo=PHP&labelColor=151b23)
-![Blade](https://img.shields.io/badge/Blade-26.75%25-f7523f?&logo=Blade&labelColor=151b23)
+![PHP](https://img.shields.io/badge/PHP-66.30%25-4F5D95?&logo=PHP&labelColor=151b23)
+![Blade](https://img.shields.io/badge/Blade-26.77%25-f7523f?&logo=Blade&labelColor=151b23)
 ![Go](https://img.shields.io/badge/Go-03.00%25-00ADD8?&logo=Go&labelColor=151b23)
 ![JavaScript](https://img.shields.io/badge/JavaScript-02.13%25-f1e05a?&logo=JavaScript&labelColor=151b23)
-![Vue](https://img.shields.io/badge/Vue-01.24%25-41b883?&logo=Vue&labelColor=151b23)
+![Vue](https://img.shields.io/badge/Vue-01.23%25-41b883?&logo=Vue&labelColor=151b23)
 ![CSS](https://img.shields.io/badge/CSS-00.21%25-563d7c?&logo=CSS&labelColor=151b23)
 ![Dockerfile](https://img.shields.io/badge/Dockerfile-00.12%25-384d54?&logo=Dockerfile&labelColor=151b23)
 ![Shell](https://img.shields.io/badge/Shell-00.09%25-89e051?&logo=Shell&labelColor=151b23)
@@ -74,5 +74,5 @@ Saturday                 42 commits          ██░░░░░░░░░�
 
 
 
-*⏳ Last updated on 2024-09-13 20:16:00 +07*
+*⏳ Last updated on 2024-09-14 12:12:36 +07*
 <!--END_SECTION:readme-stats-->
