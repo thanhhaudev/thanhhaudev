@@ -5,10 +5,10 @@ I’m currently working as a backend developer, but on the side, I can also whip
 **🕒 I'm A Twilight Taskmaster 🌆**
 
 ```text
-🌅 Morning                92 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.73%
-🌞 Daytime                172 commits         ███████░░░░░░░░░░░░░░░░░░   29.40%
-🌆 Evening                233 commits         ██████████░░░░░░░░░░░░░░░   39.83%
-🌙 Night                  88 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.04%
+🌅 Morning                97 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.36%
+🌞 Daytime                173 commits         ███████░░░░░░░░░░░░░░░░░░   29.17%
+🌆 Evening                235 commits         ██████████░░░░░░░░░░░░░░░   39.63%
+🌙 Night                  88 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.84%
 ```
 
 **🔥 I Mostly Code in PHP**
@@ -23,13 +23,13 @@ JavaScript               1 repo              ███░░░░░░░░�
 **📅 I'm Most Productive on Sunday**
 
 ```text
-Sunday                   133 commits         ██████░░░░░░░░░░░░░░░░░░░   22.74%
-Monday                   70 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.97%
-Tuesday                  75 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.82%
-Wednesday                73 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.48%
-Thursday                 112 commits         █████░░░░░░░░░░░░░░░░░░░░   19.15%
-Friday                   67 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.45%
-Saturday                 55 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.40%
+Sunday                   135 commits         ██████░░░░░░░░░░░░░░░░░░░   22.77%
+Monday                   75 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.65%
+Tuesday                  75 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.65%
+Wednesday                73 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.31%
+Thursday                 112 commits         █████░░░░░░░░░░░░░░░░░░░░   18.89%
+Friday                   67 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.30%
+Saturday                 56 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.44%
 ```
 
 **📊 All The Time I Spent On**
@@ -59,12 +59,12 @@ Others                   20 mins             ░░░░░░░░░░░�
 Mac                      79 hrs 27 mins      █████████████████████████   100.00%
 ```
 
-**💬 Languages**
+**💬 Languages & Tools**
 
-![PHP](https://img.shields.io/badge/PHP-65.95%25-4F5D95?&logo=PHP&labelColor=151b23)
-![Blade](https://img.shields.io/badge/Blade-26.62%25-f7523f?&logo=Blade&labelColor=151b23)
-![Go](https://img.shields.io/badge/Go-03.12%25-00ADD8?&logo=Go&labelColor=151b23)
-![JavaScript](https://img.shields.io/badge/JavaScript-02.43%25-f1e05a?&logo=JavaScript&labelColor=151b23)
+![PHP](https://img.shields.io/badge/PHP-65.87%25-4F5D95?&logo=PHP&labelColor=151b23)
+![Blade](https://img.shields.io/badge/Blade-26.59%25-f7523f?&logo=Blade&labelColor=151b23)
+![Go](https://img.shields.io/badge/Go-03.24%25-00ADD8?&logo=Go&labelColor=151b23)
+![JavaScript](https://img.shields.io/badge/JavaScript-02.42%25-f1e05a?&logo=JavaScript&labelColor=151b23)
 ![Vue](https://img.shields.io/badge/Vue-01.23%25-41b883?&logo=Vue&labelColor=151b23)
 ![CSS](https://img.shields.io/badge/CSS-00.29%25-563d7c?&logo=CSS&labelColor=151b23)
 ![Dockerfile](https://img.shields.io/badge/Dockerfile-00.12%25-384d54?&logo=Dockerfile&labelColor=151b23)
@@ -77,5 +77,5 @@ Mac                      79 hrs 27 mins      ███████████�
 
 
 
-*⏳ Last updated on 2024-09-22 20:13:43 +07*
+*⏳ Last updated on 2024-09-23 10:38:44 +07*
 <!--END_SECTION:readme-stats-->
