@@ -4,9 +4,9 @@ I’m currently working as a backend developer, but on the side, I can also whip
 <!--START_SECTION:readme-stats-->
 **💬 Languages & Tools**
 
-![PHP](https://img.shields.io/badge/PHP-65.19%25-4F5D95?&logo=PHP&labelColor=151b23)
-![Blade](https://img.shields.io/badge/Blade-26.32%25-f7523f?&logo=Blade&labelColor=151b23)
-![Go](https://img.shields.io/badge/Go-04.22%25-00ADD8?&logo=Go&labelColor=151b23)
+![PHP](https://img.shields.io/badge/PHP-65.17%25-4F5D95?&logo=PHP&labelColor=151b23)
+![Blade](https://img.shields.io/badge/Blade-26.31%25-f7523f?&logo=Blade&labelColor=151b23)
+![Go](https://img.shields.io/badge/Go-04.24%25-00ADD8?&logo=Go&labelColor=151b23)
 ![JavaScript](https://img.shields.io/badge/JavaScript-02.40%25-f1e05a?&logo=JavaScript&labelColor=151b23)
 ![Vue](https://img.shields.io/badge/Vue-01.21%25-41b883?&logo=Vue&labelColor=151b23)
 ![CSS](https://img.shields.io/badge/CSS-00.29%25-563d7c?&logo=CSS&labelColor=151b23)
@@ -21,10 +21,10 @@ I’m currently working as a backend developer, but on the side, I can also whip
 **🕒 I'm A Twilight Taskmaster 🌆**
 
 ```text
-🌅 Morning                105 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.67%
-🌞 Daytime                199 commits         ████████░░░░░░░░░░░░░░░░░   31.59%
-🌆 Evening                238 commits         █████████░░░░░░░░░░░░░░░░   37.78%
-🌙 Night                  88 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.97%
+🌅 Morning                105 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.61%
+🌞 Daytime                201 commits         ████████░░░░░░░░░░░░░░░░░   31.80%
+🌆 Evening                238 commits         █████████░░░░░░░░░░░░░░░░   37.66%
+🌙 Night                  88 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.92%
 ```
 
 **🔥 I Mostly Code in Go**
@@ -39,13 +39,13 @@ JavaScript               1 repo              ███░░░░░░░░�
 **📅 I'm Most Productive on Sunday**
 
 ```text
-Sunday                   140 commits         ██████░░░░░░░░░░░░░░░░░░░   22.22%
-Monday                   85 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.49%
-Tuesday                  82 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.02%
-Wednesday                83 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.17%
-Thursday                 115 commits         █████░░░░░░░░░░░░░░░░░░░░   18.25%
-Friday                   68 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.79%
-Saturday                 57 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.05%
+Sunday                   140 commits         ██████░░░░░░░░░░░░░░░░░░░   22.15%
+Monday                   87 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.77%
+Tuesday                  82 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.97%
+Wednesday                83 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.13%
+Thursday                 115 commits         █████░░░░░░░░░░░░░░░░░░░░   18.20%
+Friday                   68 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.76%
+Saturday                 57 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.02%
 ```
 
 **📊 This Week I Spent My Time On**
@@ -67,5 +67,5 @@ Mac                      1 hr 42 mins        ███████████�
 
 
 
-*⏳ Last updated on 2024-10-14 12:13:24 +07*
+*⏳ Last updated on 2024-10-14 20:19:53 +07*
 <!--END_SECTION:readme-stats-->
