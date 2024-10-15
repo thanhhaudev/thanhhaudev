@@ -24,7 +24,7 @@ jobs:
         COMMIT_MESSAGE: "🤖 auto update metrics"
         #COMMIT_USER_NAME: "thanhhaudev"
         #COMMIT_USER_EMAIL: "thanhhaudev@gmail.com"
-        WAKATIME_RANGE: "last_7_days"
+        WAKATIME_RANGE: "last_30_days"
         WAKATIME_DATA: "EDITORS,LANGUAGES,OPERATING_SYSTEMS"
         SHOW_METRICS: "LANGUAGES_AND_TOOLS,COMMIT_TIME_OF_DAY,LANGUAGE_PER_REPO,COMMIT_DAYS_OF_WEEK,WAKATIME_SPENT_TIME"
         TIME_ZONE: "Asia/Ho_Chi_Minh"
