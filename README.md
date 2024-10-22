@@ -4,16 +4,16 @@ I’m currently working as a backend developer, but on the side, I can also whip
 <!--START_SECTION:readme-stats-->
 **💬 Languages & Tools**
 
-![PHP](https://img.shields.io/badge/PHP-64.58%25-4F5D95?&logo=PHP&labelColor=151b23)
-![Blade](https://img.shields.io/badge/Blade-26.07%25-f7523f?&logo=Blade&labelColor=151b23)
-![Go](https://img.shields.io/badge/Go-05.11%25-00ADD8?&logo=Go&labelColor=151b23)
-![JavaScript](https://img.shields.io/badge/JavaScript-02.38%25-f1e05a?&logo=JavaScript&labelColor=151b23)
+![PHP](https://img.shields.io/badge/PHP-64.51%25-4F5D95?&logo=PHP&labelColor=151b23)
+![Blade](https://img.shields.io/badge/Blade-26.04%25-f7523f?&logo=Blade&labelColor=151b23)
+![Go](https://img.shields.io/badge/Go-05.20%25-00ADD8?&logo=Go&labelColor=151b23)
+![JavaScript](https://img.shields.io/badge/JavaScript-02.37%25-f1e05a?&logo=JavaScript&labelColor=151b23)
 ![Vue](https://img.shields.io/badge/Vue-01.20%25-41b883?&logo=Vue&labelColor=151b23)
 ![CSS](https://img.shields.io/badge/CSS-00.29%25-563d7c?&logo=CSS&labelColor=151b23)
 ![Dockerfile](https://img.shields.io/badge/Dockerfile-00.12%25-384d54?&logo=Dockerfile&labelColor=151b23)
 ![Shell](https://img.shields.io/badge/Shell-00.09%25-89e051?&logo=Shell&labelColor=151b23)
 ![Hack](https://img.shields.io/badge/Hack-00.07%25-878787?&logo=Hack&labelColor=151b23)
-![Makefile](https://img.shields.io/badge/Makefile-00.06%25-427819?&logo=Makefile&labelColor=151b23)
+![Makefile](https://img.shields.io/badge/Makefile-00.07%25-427819?&logo=Makefile&labelColor=151b23)
 ![SCSS](https://img.shields.io/badge/SCSS-00.02%25-c6538c?&logo=SCSS&labelColor=151b23)
 ![HTML](https://img.shields.io/badge/HTML-00.01%25-e34c26?&logo=HTML&labelColor=151b23)
 
@@ -21,10 +21,10 @@ I’m currently working as a backend developer, but on the side, I can also whip
 **🕒 I'm A Twilight Taskmaster 🌆**
 
 ```text
-🌅 Morning                110 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.90%
-🌞 Daytime                213 commits         ████████░░░░░░░░░░░░░░░░░   32.72%
-🌆 Evening                240 commits         █████████░░░░░░░░░░░░░░░░   36.87%
-🌙 Night                  88 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.52%
+🌅 Morning                110 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.62%
+🌞 Daytime                224 commits         ████████░░░░░░░░░░░░░░░░░   33.84%
+🌆 Evening                240 commits         █████████░░░░░░░░░░░░░░░░   36.25%
+🌙 Night                  88 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.29%
 ```
 
 **🔥 I Mostly Code in Go**
@@ -39,16 +39,35 @@ JavaScript               1 repo              ███░░░░░░░░�
 **📅 I'm Most Productive on Sunday**
 
 ```text
-Sunday                   140 commits         █████░░░░░░░░░░░░░░░░░░░░   21.51%
-Monday                   89 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.67%
-Tuesday                  88 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.52%
-Wednesday                91 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.98%
-Thursday                 115 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.67%
-Friday                   71 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.91%
-Saturday                 57 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.76%
+Sunday                   140 commits         █████░░░░░░░░░░░░░░░░░░░░   21.15%
+Monday                   89 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.44%
+Tuesday                  99 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.95%
+Wednesday                91 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.75%
+Thursday                 115 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.37%
+Friday                   71 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.73%
+Saturday                 57 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.61%
+```
+
+**📊 This Month I Spent My Time On**
+
+```text
+📝 Editors:
+GoLand                   11 hrs 3 mins       █████████████████████████   98.16%
+Chrome                   12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.84%
+
+💬 Languages:
+Go                       9 hrs 31 mins       █████████████████████░░░░   84.65%
+Markdown                 34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.06%
+YAML                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.39%
+go.mod                   14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.18%
+Makefile                 10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52%
+Others                   27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.21%
+
+💻 Operating Systems:
+Mac                      11 hrs 15 mins      █████████████████████████   100.00%
 ```
 
 
 
-*⏳ Last updated on 2024-10-22 12:13:10 +07*
+*⏳ Last updated on 2024-10-22 20:19:47 +07*
 <!--END_SECTION:readme-stats-->
