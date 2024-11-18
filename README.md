@@ -4,18 +4,21 @@ I’m currently working as a backend developer, but on the side, I can also whip
 <!--START_SECTION:readme-stats-->
 **💬 Languages & Tools**
 
-![PHP](https://img.shields.io/badge/PHP-63.53%25-4F5D95?&logo=PHP&labelColor=151b23)
-![Blade](https://img.shields.io/badge/Blade-25.65%25-f7523f?&logo=Blade&labelColor=151b23)
-![Go](https://img.shields.io/badge/Go-06.64%25-00ADD8?&logo=Go&labelColor=151b23)
-![JavaScript](https://img.shields.io/badge/JavaScript-02.34%25-f1e05a?&logo=JavaScript&labelColor=151b23)
-![Vue](https://img.shields.io/badge/Vue-01.18%25-41b883?&logo=Vue&labelColor=151b23)
-![CSS](https://img.shields.io/badge/CSS-00.28%25-563d7c?&logo=CSS&labelColor=151b23)
-![Dockerfile](https://img.shields.io/badge/Dockerfile-00.12%25-384d54?&logo=Dockerfile&labelColor=151b23)
-![Shell](https://img.shields.io/badge/Shell-00.09%25-89e051?&logo=Shell&labelColor=151b23)
-![Makefile](https://img.shields.io/badge/Makefile-00.07%25-427819?&logo=Makefile&labelColor=151b23)
-![Hack](https://img.shields.io/badge/Hack-00.07%25-878787?&logo=Hack&labelColor=151b23)
-![SCSS](https://img.shields.io/badge/SCSS-00.02%25-c6538c?&logo=SCSS&labelColor=151b23)
-![HTML](https://img.shields.io/badge/HTML-00.01%25-e34c26?&logo=HTML&labelColor=151b23)
+![PHP](https://img.shields.io/badge/PHP-56.88%25-4F5D95?&logo=PHP&labelColor=151b23)
+![Blade](https://img.shields.io/badge/Blade-34.00%25-f7523f?&logo=Blade&labelColor=151b23)
+![HTML](https://img.shields.io/badge/HTML-05.41%25-e34c26?&logo=HTML&labelColor=151b23)
+![Go](https://img.shields.io/badge/Go-01.27%25-00ADD8?&logo=Go&labelColor=151b23)
+![JavaScript](https://img.shields.io/badge/JavaScript-01.09%25-f1e05a?&logo=JavaScript&labelColor=151b23)
+![Dockerfile](https://img.shields.io/badge/Dockerfile-00.60%25-384d54?&logo=Dockerfile&labelColor=151b23)
+![Vue](https://img.shields.io/badge/Vue-00.23%25-41b883?&logo=Vue&labelColor=151b23)
+![Shell](https://img.shields.io/badge/Shell-00.19%25-89e051?&logo=Shell&labelColor=151b23)
+![Less](https://img.shields.io/badge/Less-00.13%25-1d365d?&logo=Less&labelColor=151b23)
+![CoffeeScript](https://img.shields.io/badge/CoffeeScript-00.12%25-244776?&logo=CoffeeScript&labelColor=151b23)
+![CSS](https://img.shields.io/badge/CSS-00.05%25-563d7c?&logo=CSS&labelColor=151b23)
+![Makefile](https://img.shields.io/badge/Makefile-00.01%25-427819?&logo=Makefile&labelColor=151b23)
+![Hack](https://img.shields.io/badge/Hack-00.01%25-878787?&logo=Hack&labelColor=151b23)
+![SCSS](https://img.shields.io/badge/SCSS-00.00%25-c6538c?&logo=SCSS&labelColor=151b23)
+![Pug](https://img.shields.io/badge/Pug-00.00%25-a86454?&logo=Pug&labelColor=151b23)
 
 
 **🕒 I'm A Twilight Taskmaster 🌆**
@@ -27,13 +30,13 @@ I’m currently working as a backend developer, but on the side, I can also whip
 🌙 Night                  90 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.84%
 ```
 
-**🔥 I Mostly Code in Go**
+**🔥 I Mostly Code in PHP**
 
 ```text
-Go                       4 repos             ██████████░░░░░░░░░░░░░░░   40.00%
-PHP                      3 repos             ████████░░░░░░░░░░░░░░░░░   30.00%
-Blade                    2 repos             █████░░░░░░░░░░░░░░░░░░░░   20.00%
-JavaScript               1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   10.00%
+PHP                      4 repos             █████████░░░░░░░░░░░░░░░░   36.36%
+Go                       4 repos             █████████░░░░░░░░░░░░░░░░   36.36%
+Blade                    2 repos             █████░░░░░░░░░░░░░░░░░░░░   18.18%
+JavaScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   09.09%
 ```
 
 **📅 I'm Most Productive on Sunday**
@@ -52,18 +55,17 @@ Saturday                 57 commits          ██░░░░░░░░░�
 
 ```text
 📝 Editors:
-GoLand                   4 hrs 47 mins       █████████████████████████   100.00%
+GoLand                   4 hrs 13 mins       █████████████████████████   100.00%
 
 💬 Languages:
-Go                       4 hrs 37 mins       ████████████████████████░   96.44%
-Markdown                 10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.55%
-Others                                       ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01%
+Go                       4 hrs 9 mins        █████████████████████████   98.46%
+Others                   3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54%
 
 💻 Operating Systems:
-Mac                      4 hrs 47 mins       █████████████████████████   100.00%
+Mac                      4 hrs 13 mins       █████████████████████████   100.00%
 ```
 
 
 
-⏳ *Last updated on 2024-11-18 12:13:51 +07*
+⏳ *Last updated on 2024-11-18 20:21:31 +07*
 <!--END_SECTION:readme-stats-->
