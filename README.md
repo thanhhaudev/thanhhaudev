@@ -4,8 +4,8 @@ I’m currently working as a backend developer, but on the side, I can also whip
 <!--START_SECTION:readme-stats-->
 **💬 Languages & Tools**
 
-![PHP](https://img.shields.io/badge/PHP-56.05%25-4F5D95?&logo=PHP&labelColor=151b23)
-![Blade](https://img.shields.io/badge/Blade-36.58%25-f7523f?&logo=Blade&labelColor=151b23)
+![PHP](https://img.shields.io/badge/PHP-56.04%25-4F5D95?&logo=PHP&labelColor=151b23)
+![Blade](https://img.shields.io/badge/Blade-36.59%25-f7523f?&logo=Blade&labelColor=151b23)
 ![HTML](https://img.shields.io/badge/HTML-05.16%25-e34c26?&logo=HTML&labelColor=151b23)
 ![JavaScript](https://img.shields.io/badge/JavaScript-00.82%25-f1e05a?&logo=JavaScript&labelColor=151b23)
 ![Go](https://img.shields.io/badge/Go-00.61%25-00ADD8?&logo=Go&labelColor=151b23)
@@ -64,5 +64,5 @@ Mac                      68 hrs 2 mins       ███████████�
 
 
 
-⏳ *Last updated on 2024-12-16 12:14:33 +07*
+⏳ *Last updated on 2024-12-16 20:22:16 +07*
 <!--END_SECTION:readme-stats-->
