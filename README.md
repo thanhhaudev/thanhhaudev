@@ -1,4 +1,4 @@
-## Hi there, I'm Hau 👋
+## Hi there 👋
 I’m currently working as a backend developer, but on the side, I can also whip up a basic frontend with a little magic from Google 🪄
 
 <!--START_SECTION:readme-stats-->
