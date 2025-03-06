@@ -16,7 +16,7 @@ jobs:
     - name: Checkout
       uses: actions/checkout@v4
     - name: Run GitHub Stats Action
-      uses: thanhhaudev/github-stats@develop
+      uses: thanhhaudev/github-stats@perf/improve_fetch_commit
       env:
         BRANCH_NAME: ${{ github.ref_name }}
         WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
