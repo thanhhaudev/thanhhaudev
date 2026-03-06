@@ -2,45 +2,13 @@
 **🕒 I'm An Early 🐤**
 
 ```text
-🌅 Morning                221 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.71%
-🌞 Daytime                448 commits         █████████░░░░░░░░░░░░░░░░   35.90%
-🌆 Evening                351 commits         ███████░░░░░░░░░░░░░░░░░░   28.12%
-🌙 Night                  228 commits         █████░░░░░░░░░░░░░░░░░░░░   18.27%
-```
-
-**📈 Coding Streak**
-
-```text
-🔥 Current Streak:        1 days
-🏆 Longest Streak:        11 days
-📊 Daily Average:         3 hrs 43 mins
-💪 Total Coding Time:     1,479 hrs 37 mins
-🎯 Coding Consistency:    73.2%
-📅 Active Days:           397 days
-```
-
-**📊 Last 30 Days**
-
-```text
-📝 Editors:
-PhpStorm                 73 hrs 27 mins      ███████████████████████░░   92.19%
-DBeaver                  3 hrs 44 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.69%
-GoLand                   2 hrs 27 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.09%
-Others                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03%
-
-💬 Languages:
-PHP                      45 hrs 28 mins      ██████████████░░░░░░░░░░░   57.08%
-Blade Template           22 hrs 38 mins      ███████░░░░░░░░░░░░░░░░░░   28.42%
-SQL                      3 hrs 31 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.42%
-Log File                 2 hrs 56 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.69%
-JavaScript               1 hr 33 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96%
-Go                       1 hr 32 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.94%
-Markdown                 54 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14%
-Dotenv                   48 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01%
-Others                   13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34%
+🌅 Morning                228 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.90%
+🌞 Daytime                448 commits         █████████░░░░░░░░░░░░░░░░   35.16%
+🌆 Evening                355 commits         ███████░░░░░░░░░░░░░░░░░░   27.86%
+🌙 Night                  243 commits         █████░░░░░░░░░░░░░░░░░░░░   19.07%
 ```
 
 
 
-⏳ *Last updated on 2026-01-25 10:58:06 +07*
+⏳ *Last updated on 2026-03-06 23:38:20 +07*
 <!--END_SECTION:readme-stats-->
