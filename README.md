@@ -14,12 +14,12 @@
 🔥 Current Streak:        0 days
 🏆 Longest Streak:        11 days
 📊 Daily Average:         3 hrs 43 mins
-💪 Total Coding Time:     1,690 hrs 46 mins
-🎯 Coding Consistency:    73.5%
-📅 Active Days:           453 days
+💪 Total Coding Time:     1,684 hrs 34 mins
+🎯 Coding Consistency:    73.3%
+📅 Active Days:           452 days
 ```
 
 
 
-⏳ *Last updated on 2026-04-09 21:50:53 +07*
+⏳ *Last updated on 2026-04-10 13:51:30 +07*
 <!--END_SECTION:readme-stats-->
