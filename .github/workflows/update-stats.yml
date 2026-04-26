@@ -32,6 +32,7 @@ jobs:
     - name: Run GitHub Stats Action
       uses: thanhhaudev/github-stats@master
       env:
+        ENABLE_CACHE: "true"
         BRANCH_NAME: ${{ github.ref_name }}
         WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
         GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
