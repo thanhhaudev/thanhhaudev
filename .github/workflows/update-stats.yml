@@ -2,9 +2,15 @@ name: Update README.md
 
 on:
   schedule:
-    - cron: '0 5 * * *'  # Runs at 12:00 PM VNT (5:00 AM UTC)
-    - cron: '0 13 * * *' # Runs at 8:00 PM VNT (1:00 PM UTC)
+    - cron: '0 19 * * *' # 02:00 AM VNT (19:00 UTC)
+    - cron: '0 4 * * *'  # 11:00 AM VNT (04:00 UTC)
+    - cron: '0 11 * * *' # 06:00 PM VNT (11:00 UTC)
+    - cron: '0 14 * * *' # 09:00 PM VNT (14:00 UTC)
   workflow_dispatch:
+
+concurrency:
+  group: github-stats
+  cancel-in-progress: false  # serialize overlapping runs instead of running them in parallel
 
 jobs:
   update-readme:
@@ -15,6 +21,14 @@ jobs:
     steps:
     - name: Checkout
       uses: actions/checkout@v4
+      
+    - name: Restore cache
+      uses: actions/cache@v4
+      with:
+        path: .github-stats-cache.json
+        key: github-stats-${{ github.run_id }}
+        restore-keys: github-stats-
+        
     - name: Run GitHub Stats Action
       uses: thanhhaudev/github-stats@master
       env:
