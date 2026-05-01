@@ -2,10 +2,10 @@
 **🕒 I'm An Early 🐤**
 
 ```text
-🌅 Morning                460 commits         ██████░░░░░░░░░░░░░░░░░░░   23.08%
-🌞 Daytime                683 commits         █████████░░░░░░░░░░░░░░░░   34.27%
-🌆 Evening                559 commits         ███████░░░░░░░░░░░░░░░░░░   28.05%
-🌙 Night                  291 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.60%
+🌅 Morning                460 commits         ██████░░░░░░░░░░░░░░░░░░░   22.69%
+🌞 Daytime                685 commits         ████████░░░░░░░░░░░░░░░░░   33.79%
+🌆 Evening                591 commits         ███████░░░░░░░░░░░░░░░░░░   29.16%
+🌙 Night                  291 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.36%
 ```
 
 **📈 Coding Streak**
@@ -13,10 +13,10 @@
 ```text
 🔥 Current Streak:        9 days
 🏆 Longest Streak:        11 days
-📊 Daily Average:         0 hrs 0 mins
-💪 Total Coding Time:     
-🎯 Coding Consistency:    0.0%
-📅 Active Days:           0 days
+📊 Daily Average:         3 hrs 48 mins
+💪 Total Coding Time:     1,806 hrs 58 mins
+🎯 Coding Consistency:    74.5%
+📅 Active Days:           475 days
 ```
 
 **🤖 My AI Footprint**
@@ -30,5 +30,5 @@
 
 
 
-⏳ *Last updated on 2026-05-01 18:50:13 +07*
+⏳ *Last updated on 2026-05-01 22:00:32 +07*
 <!--END_SECTION:readme-stats-->
