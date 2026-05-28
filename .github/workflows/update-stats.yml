@@ -30,7 +30,7 @@ jobs:
         restore-keys: github-stats-
         
     - name: Run GitHub Stats Action
-      uses: thanhhaudev/github-stats@debug/git-stderr-visibility
+      uses: thanhhaudev/github-stats@fix/git-push-duplicate-auth-header
       env:
         ENABLE_CACHE: "true"
         SIMPLE_LOGS: "true"
