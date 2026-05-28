@@ -2,9 +2,15 @@ name: Update README.md
 
 on:
   schedule:
-    - cron: '0 5 * * *'  # Runs at 12:00 PM VNT (5:00 AM UTC)
-    - cron: '0 13 * * *' # Runs at 8:00 PM VNT (1:00 PM UTC)
+    - cron: '0 19 * * *' # 02:00 AM VNT (19:00 UTC)
+    - cron: '0 4 * * *'  # 11:00 AM VNT (04:00 UTC)
+    - cron: '0 11 * * *' # 06:00 PM VNT (11:00 UTC)
+    - cron: '0 14 * * *' # 09:00 PM VNT (14:00 UTC)
   workflow_dispatch:
+
+concurrency:
+  group: github-stats
+  cancel-in-progress: false  # serialize overlapping runs instead of running them in parallel
 
 jobs:
   update-readme:
@@ -15,18 +21,28 @@ jobs:
     steps:
     - name: Checkout
       uses: actions/checkout@v4
+      
+    - name: Restore cache
+      uses: actions/cache@v4
+      with:
+        path: .github-stats-cache.json
+        key: github-stats-${{ github.run_id }}
+        restore-keys: github-stats-
+        
     - name: Run GitHub Stats Action
-      uses: thanhhaudev/github-stats@perf/improve_fetch_commit
+      uses: thanhhaudev/github-stats@debug/git-stderr-visibility
       env:
+        ENABLE_CACHE: "true"
+        SIMPLE_LOGS: "true"
         BRANCH_NAME: ${{ github.ref_name }}
         WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
         GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
         COMMIT_MESSAGE: "🤖 auto update metrics"
         #COMMIT_USER_NAME: "thanhhaudev"
         #COMMIT_USER_EMAIL: "thanhhaudev@gmail.com"
-        WAKATIME_RANGE: "last_30_days"
-        WAKATIME_DATA: "EDITORS,LANGUAGES,OPERATING_SYSTEMS"
-        SHOW_METRICS: "COMMIT_TIMES_OF_DAY,LANGUAGE_PER_REPO,COMMIT_DAYS_OF_WEEK,WAKATIME_SPENT_TIME"
+        WAKATIME_RANGE: "all_time"
+        WAKATIME_DATA: "EDITORS,LANGUAGES"
+        SHOW_METRICS: "COMMIT_TIMES_OF_DAY,CODING_STREAK,WAKATIME_AI_STATS"
         TIME_ZONE: "Asia/Ho_Chi_Minh"
         TIME_LAYOUT: "2006-01-02 15:04:05 MST"
         SHOW_LAST_UPDATE: "true"
