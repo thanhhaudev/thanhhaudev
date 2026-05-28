@@ -30,8 +30,7 @@ jobs:
         restore-keys: github-stats-
         
     - name: Run GitHub Stats Action
-      #uses: thanhhaudev/github-stats@master
-      uses: debug/git-stderr-visibility
+      uses: thanhhaudev/github-stats@master
       env:
         ENABLE_CACHE: "true"
         SIMPLE_LOGS: "true"
