@@ -1,22 +1,13 @@
 <!--START_SECTION:readme-stats-->
-**🕒 I'm An Early 🐤**
-
-```text
-🌅 Morning                869 commits         ██████░░░░░░░░░░░░░░░░░░░   23.15%
-🌞 Daytime                1,194 commits       ████████░░░░░░░░░░░░░░░░░   31.81%
-🌆 Evening                1,051 commits       ███████░░░░░░░░░░░░░░░░░░   28.00%
-🌙 Night                  639 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.03%
-```
-
 **📈 Coding Streak**
 
 ```text
 🔥 Current Streak:        16 days
 🏆 Longest Streak:        18 days
 📊 Daily Average:         4 hrs 8 mins
-💪 Total Coding Time:     2,086 hrs 12 mins
-🎯 Coding Consistency:    75.4%
-📅 Active Days:           504 days
+💪 Total Coding Time:     2,089 hrs 49 mins
+🎯 Coding Consistency:    75.6%
+📅 Active Days:           505 days
 ```
 
 **🤖 My AI Footprint**
@@ -31,5 +22,5 @@
 
 
 
-⏳ *Last updated on 2026-05-31 14:40:31 +07*
+⏳ *Last updated on 2026-05-31 19:06:34 +07*
 <!--END_SECTION:readme-stats-->
