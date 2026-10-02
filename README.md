@@ -2,7 +2,7 @@
 **📈 Coding Streak**
 
 ```text
-🔥 Current Streak:        50 days
+🔥 Current Streak:        0 days
 🏆 Longest Streak:        50 days
 📊 Daily Average:         5 hrs 38 mins
 💪 Total Coding Time:     3,531 hrs 57 mins
@@ -22,5 +22,5 @@
 
 
 
-⏳ *Last updated on 2026-10-02 23:24:07 +07*
+⏳ *Last updated on 2026-10-03 01:51:12 +07*
 <!--END_SECTION:readme-stats-->
